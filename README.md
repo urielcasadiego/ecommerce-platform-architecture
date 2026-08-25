@@ -5,6 +5,7 @@ KOOALITY es una plataforma de comercio electrónico *full-stack* diseñada con u
 Este repositorio presenta la arquitectura, las decisiones técnicas, los diagramas y ejemplos seleccionados (no destinados a producción) de la plataforma.
 
 > El código fuente de producción es privado. Este repositorio contiene únicamente documentación del portafolio, diagramas de arquitectura y ejemplos depurados.
+
 El proyecto sigue una arquitectura modular basada en dominios:
 
 - Frontend Angular con rutas lazy-load
